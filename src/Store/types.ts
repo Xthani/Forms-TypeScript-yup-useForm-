@@ -1,6 +1,3 @@
-import { todosReducer } from './todosReducer';
-import { rootReducer } from "./rootReducer"
-
 export enum EActionType {
     ADD_TODO = 'ADD_TODO',
     SAVE_TODO = 'SAVE_TODO',
